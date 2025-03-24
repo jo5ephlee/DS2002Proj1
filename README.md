@@ -1,2 +1,2 @@
 # DS2002Proj1
-# Joseph Lee and Nathan Kim
+Joseph Lee and Nathan Kim
