@@ -1,8 +1,6 @@
-# DS2002Proj1
-Joseph Lee and Nathan Kim
 
 # DS2002 Data Project 1 – ETL Pipeline for Spotify Data
-
+Joseph Lee and Nathan Kim
 ## Project Overview
 
 This project demonstrates an ETL (Extract, Transform, Load) pipeline that ingests data from two distinct sources:
