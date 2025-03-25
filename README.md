@@ -20,7 +20,7 @@ The pipeline merges these two datasets, performs data transformation and analysi
 - **Data Summarization & Analysis:**
   - Prints out data summaries (record counts, column counts, and sample data).
   - Outputs summary statistics and a correlation matrix for numeric columns.
-  - Optionally generates a histogram for the "popularity" field.
+  - Generates a histogram for the "popularity" field.
 - **Data Storage:**
   - Saves the transformed data to a SQLite database.
   - Provides additional output format options (CSV or JSON).
