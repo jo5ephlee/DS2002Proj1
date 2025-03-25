@@ -1,5 +1,5 @@
 
-# DS2002 Data Project 1 – ETL Pipeline for Spotify Data
+# DS2002 Data Project 1
 Joseph Lee and Nathan Kim
 ## Project Overview
 
@@ -7,7 +7,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline that manipu
 - **Remote Data:** Fetched from the Spotify API (using Spotipy) to retrieve track information.
 - **Local Data:** Loaded from a CSV or JSON file containing Spotify-related data.
 
-The pipeline merges these two datasets, performs data transformation and analysis (including summary statistics, correlation analysis, and optional visualization), and stores the final transformed data in a SQLite database. It also supports file format conversion by allowing the output to be saved as a CSV or JSON file.
+The pipeline merges these two datasets, performs data transformation and analysis, and stores the final transformed data in a SQL database. It also supports file format conversion by allowing the output to be saved as a CSV or JSON file which the user can choose.
 
 ## Features
 
