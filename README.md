@@ -3,7 +3,7 @@
 Joseph Lee and Nathan Kim
 ## Project Overview
 
-This project demonstrates an ETL (Extract, Transform, Load) pipeline that ingests data from two distinct sources:
+This project demonstrates an ETL (Extract, Transform, Load) pipeline that manipulates data from two distinct sources:
 - **Remote Data:** Fetched from the Spotify API (using Spotipy) to retrieve track information.
 - **Local Data:** Loaded from a CSV or JSON file containing Spotify-related data.
 
