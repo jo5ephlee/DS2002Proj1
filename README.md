@@ -27,16 +27,7 @@ The pipeline merges these two datasets, performs data transformation and analysi
 - **Error Handling:**
   - Implements try/except blocks to provide informative error messages during data ingestion, transformation, and storage.
 
-## Setup and Installation
-
-### Prerequisites
-
-- **Python 3.x**  
-- Required Python packages:
-  - [spotipy](https://spotipy.readthedocs.io/en/2.19.0/)
-  - [pandas](https://pandas.pydata.org/)
-  - [matplotlib](https://matplotlib.org/)
-  - [sqlite3](https://docs.python.org/3/library/sqlite3.html) (included in the Python standard library)
+## Instructions
 
 ### Running in Google Colab
 
